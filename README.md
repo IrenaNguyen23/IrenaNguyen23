@@ -1,18 +1,18 @@
-## Hi there 👋
+## Hi there 👋, I'm Nguyễn Bảo Hòa!
 
 <!--
 **IrenaNguyen23/IrenaNguyen23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working as a Full Stack Web Developer at District 1, HCM City
+- 🌱 I’m currently learning Laravel and improving my PHP skills
+- 👯 I’m looking to collaborate on full-stack web development projects, especially those involving Java Spring Boot or Laravel
+- 🤔 I’m looking for help with advanced Laravel practices
+- 💬 Ask me about Java Spring Boot, Laravel, or full-stack development
+- 📫 How to reach me: nguyenbaohoa02@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I started with computers in high school and now I’m a passionate web developer!
 -->
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
