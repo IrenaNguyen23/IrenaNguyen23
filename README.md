@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Nguyễn Bảo Hòa!
 # 💫 About Me:
-🔭 I’m currently working as a Full Stack Web Developer at District 1, HCM City<br>🌱 I’m currently learning .Net and improving my C# skills<br>👯 I’m looking to collaborate on full-stack web development projects, especially those involving Java Spring Boot or Node JS<br>🤔 I’m looking for help with advanced NodeJS practices<br>💬 Ask me about Java Spring Boot, .NET, or full-stack development<br>📫 How to reach me: nguyenbaohoa02@gmail.com<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I started with computers in high school and now I'm a passionate web developer!
+🔭 I’m currently working as a Full Stack Web Developer at District 7, HCM City<br>🌱 I’m currently learning Python and improving my NodeJS skills<br>👯 I’m looking to collaborate on full-stack web development projects, especially those involving Java Spring Boot or Node JS<br>🤔 I’m looking for help with advanced NodeJS practices<br>💬 Ask me about Java Spring Boot or full-stack development<br>📫 How to reach me: nguyenbaohoa02@gmail.com<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I started with computers in high school and now I'm a passionate web developer!
 
 
 ## 🌐 Socials:
