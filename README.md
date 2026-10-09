@@ -1,3 +1,4 @@
+<!-- AWAKEN:START -->
 {
   "username": "IrenaNguyen23",
   "layout": "default",
@@ -8,3 +9,4 @@
   "motion": "full",
   "timezone": "Asia/Saigon"
 }
+<!-- AWAKEN:END -->
